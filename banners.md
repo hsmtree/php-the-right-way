@@ -32,7 +32,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Leaderboard (728x90)
 
-<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/leaderboard-728x90.png" alt="PHP: The Right Way"/></p>
+<p><img src="/images/banners/leaderboard-728x90.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
