@@ -12,7 +12,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Button 1 (120x90)
 
-<p><img src="/php-the-right-way/images/banners/btn1-120x90.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/btn1-120x90.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -22,7 +22,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Button 2 (120x60)
 
-<p><img src="/php-the-right-way/images/banners/btn2-120x60.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/btn2-120x60.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -32,7 +32,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Leaderboard (728x90)
 
-<p><img src="/php-the-right-way/images/banners/leaderboard-728x90.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/leaderboard-728x90.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -42,7 +42,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Large Rectangle (386x280)
 
-<p><img src="/php-the-right-way/images/banners/lg-rect-386x280.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/lg-rect-386x280.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -52,7 +52,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Medium Rectangle (300x250)
 
-<p><img src="/php-the-right-way/images/banners/med-rect-300x250.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/med-rect-300x250.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -62,7 +62,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Rectangle (180x150)
 
-<p><img src="/php-the-right-way/images/banners/rect-180x150.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/rect-180x150.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -72,7 +72,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Square Button (125x125)
 
-<p><img src="/php-the-right-way/images/banners/sq-btn-125x125.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/sq-btn-125x125.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
@@ -82,7 +82,7 @@ _PHP: The Right Way_ 배너 이미지를 사용해 널리 알려주세요! 새�
 
 ## Vertical Rectangle (240x400)
 
-<p><img src="/php-the-right-way/images/banners/vert-rect-240x400.png" alt="PHP: The Right Way"/></p>
+<p><img src="/hsmtree/php-the-right-way/tree/gh-pages/images/banners/vert-rect-240x400.png" alt="PHP: The Right Way"/></p>
 
 {% highlight html %}
 <a href="http://www.phptherightway.com">
